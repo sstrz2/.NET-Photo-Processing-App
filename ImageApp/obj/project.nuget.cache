@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IX5wJe4jsvRRdYcSbqOFRen2vN6KUeriWLFuyHWuXMgtr0HvXBYij5gcXfcWdfVQb3vcNMFI/K+53H0w8DHDTw==",
+  "success": true,
+  "projectFilePath": "/home/codio/workspace/ImageApp/ImageApp.csproj",
+  "expectedPackageFiles": [
+    "/home/codio/.nuget/packages/fsharp.core/7.0.400/fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

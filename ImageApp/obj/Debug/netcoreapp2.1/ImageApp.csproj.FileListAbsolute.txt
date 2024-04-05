@@ -1,0 +1,30 @@
+/home/runner/F-and-C-test/ImageApp/obj/Debug/netcoreapp2.1/ImageApp.csprojAssemblyReference.cache
+/home/runner/F-and-C-test/ImageApp/obj/Debug/netcoreapp2.1/ImageApp.csproj.CoreCompileInputs.cache
+/home/runner/F-and-C-test/ImageApp/obj/Debug/netcoreapp2.1/ImageApp.AssemblyInfoInputs.cache
+/home/runner/F-and-C-test/ImageApp/obj/Debug/netcoreapp2.1/ImageApp.AssemblyInfo.cs
+/home/runner/F-and-C-test/ImageApp/bin/Debug/netcoreapp2.1/ImageApp.deps.json
+/home/runner/F-and-C-test/ImageApp/bin/Debug/netcoreapp2.1/ImageApp.runtimeconfig.json
+/home/runner/F-and-C-test/ImageApp/bin/Debug/netcoreapp2.1/ImageApp.runtimeconfig.dev.json
+/home/runner/F-and-C-test/ImageApp/bin/Debug/netcoreapp2.1/ImageApp.dll
+/home/runner/F-and-C-test/ImageApp/bin/Debug/netcoreapp2.1/ImageApp.pdb
+/home/runner/F-and-C-test/ImageApp/bin/Debug/netcoreapp2.1/ImageLibrary.dll
+/home/runner/F-and-C-test/ImageApp/bin/Debug/netcoreapp2.1/ImageLibrary.pdb
+/home/runner/F-and-C-test/ImageApp/obj/Debug/netcoreapp2.1/ImageApp.csproj.CopyComplete
+/home/runner/F-and-C-test/ImageApp/obj/Debug/netcoreapp2.1/ImageApp.dll
+/home/runner/F-and-C-test/ImageApp/obj/Debug/netcoreapp2.1/ImageApp.pdb
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\bin\Debug\netcoreapp2.1\ImageApp.deps.json
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\bin\Debug\netcoreapp2.1\ImageApp.runtimeconfig.json
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\bin\Debug\netcoreapp2.1\ImageApp.runtimeconfig.dev.json
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\bin\Debug\netcoreapp2.1\ImageApp.dll
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\bin\Debug\netcoreapp2.1\ImageApp.pdb
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\bin\Debug\netcoreapp2.1\ImageLibrary.dll
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\bin\Debug\netcoreapp2.1\ImageLibrary.pdb
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.csproj.AssemblyReference.cache
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.AssemblyInfoInputs.cache
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.AssemblyInfo.cs
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.csproj.CoreCompileInputs.cache
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.csproj.CopyComplete
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.dll
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.pdb
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.genruntimeconfig.cache
