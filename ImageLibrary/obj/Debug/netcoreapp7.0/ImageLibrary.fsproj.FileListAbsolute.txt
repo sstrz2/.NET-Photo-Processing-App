@@ -1,0 +1,11 @@
+/home/codio/workspace/ImageLibrary/bin/Debug/netcoreapp7.0/ImageLibrary.deps.json
+/home/codio/workspace/ImageLibrary/bin/Debug/netcoreapp7.0/ImageLibrary.dll
+/home/codio/workspace/ImageLibrary/bin/Debug/netcoreapp7.0/ImageLibrary.pdb
+/home/codio/workspace/ImageLibrary/obj/Debug/netcoreapp7.0/ImageLibrary.fsproj.AssemblyReference.cache
+/home/codio/workspace/ImageLibrary/obj/Debug/netcoreapp7.0/ImageLibrary.AssemblyInfoInputs.cache
+/home/codio/workspace/ImageLibrary/obj/Debug/netcoreapp7.0/ImageLibrary.AssemblyInfo.fs
+/home/codio/workspace/ImageLibrary/obj/Debug/netcoreapp7.0/ImageLibrary.fsproj.CoreCompileInputs.cache
+/home/codio/workspace/ImageLibrary/obj/Debug/netcoreapp7.0/ImageLibrary.dll
+/home/codio/workspace/ImageLibrary/obj/Debug/netcoreapp7.0/refint/ImageLibrary.dll
+/home/codio/workspace/ImageLibrary/obj/Debug/netcoreapp7.0/ImageLibrary.pdb
+/home/codio/workspace/ImageLibrary/obj/Debug/netcoreapp7.0/ref/ImageLibrary.dll

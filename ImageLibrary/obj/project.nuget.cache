@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "meNi91DAE2VAN8PsFg5hZWs74psbGRtMhCx3PEdngCjYqqR266l643I6EVkS5q/dcsrlnWBrGjgF1pTS+CgIbQ==",
+  "success": true,
+  "projectFilePath": "/home/codio/workspace/ImageLibrary/ImageLibrary.fsproj",
+  "expectedPackageFiles": [
+    "/home/codio/.nuget/packages/fsharp.core/7.0.400/fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

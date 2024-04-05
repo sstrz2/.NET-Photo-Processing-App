@@ -1,0 +1,17 @@
+/home/runner/F-and-C-test/ImageLibrary/bin/Debug/netcoreapp2.1/ImageLibrary.deps.json
+/home/runner/F-and-C-test/ImageLibrary/bin/Debug/netcoreapp2.1/ImageLibrary.dll
+/home/runner/F-and-C-test/ImageLibrary/bin/Debug/netcoreapp2.1/ImageLibrary.pdb
+/home/runner/F-and-C-test/ImageLibrary/obj/Debug/netcoreapp2.1/ImageLibrary.fsprojAssemblyReference.cache
+/home/runner/F-and-C-test/ImageLibrary/obj/Debug/netcoreapp2.1/ImageLibrary.AssemblyInfoInputs.cache
+/home/runner/F-and-C-test/ImageLibrary/obj/Debug/netcoreapp2.1/ImageLibrary.AssemblyInfo.fs
+/home/runner/F-and-C-test/ImageLibrary/obj/Debug/netcoreapp2.1/ImageLibrary.dll
+/home/runner/F-and-C-test/ImageLibrary/obj/Debug/netcoreapp2.1/ImageLibrary.pdb
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageLibrary\bin\Debug\netcoreapp2.1\ImageLibrary.deps.json
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageLibrary\bin\Debug\netcoreapp2.1\ImageLibrary.dll
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageLibrary\bin\Debug\netcoreapp2.1\ImageLibrary.pdb
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageLibrary\obj\Debug\netcoreapp2.1\ImageLibrary.fsproj.AssemblyReference.cache
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageLibrary\obj\Debug\netcoreapp2.1\ImageLibrary.AssemblyInfoInputs.cache
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageLibrary\obj\Debug\netcoreapp2.1\ImageLibrary.AssemblyInfo.fs
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageLibrary\obj\Debug\netcoreapp2.1\ImageLibrary.fsproj.CoreCompileInputs.cache
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageLibrary\obj\Debug\netcoreapp2.1\ImageLibrary.dll
+C:\Users\ekidan2\OneDrive - University of Illinois Chicago\CS 341\Project03\solution\ImageLibrary\obj\Debug\netcoreapp2.1\ImageLibrary.pdb

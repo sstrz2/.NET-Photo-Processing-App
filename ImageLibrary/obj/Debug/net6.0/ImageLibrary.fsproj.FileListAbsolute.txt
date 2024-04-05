@@ -1,0 +1,10 @@
+C:\Classes\cs341\ImageApp\ImageLibrary\bin\Debug\net6.0\ImageLibrary.deps.json
+C:\Classes\cs341\ImageApp\ImageLibrary\bin\Debug\net6.0\ImageLibrary.dll
+C:\Classes\cs341\ImageApp\ImageLibrary\bin\Debug\net6.0\ImageLibrary.pdb
+C:\Classes\cs341\ImageApp\ImageLibrary\bin\Debug\net6.0\ImageLibrary.xml
+C:\Classes\cs341\ImageApp\ImageLibrary\obj\Debug\net6.0\ImageLibrary.fsproj.AssemblyReference.cache
+C:\Classes\cs341\ImageApp\ImageLibrary\obj\Debug\net6.0\ImageLibrary.AssemblyInfoInputs.cache
+C:\Classes\cs341\ImageApp\ImageLibrary\obj\Debug\net6.0\ImageLibrary.AssemblyInfo.fs
+C:\Classes\cs341\ImageApp\ImageLibrary\obj\Debug\net6.0\ImageLibrary.dll
+C:\Classes\cs341\ImageApp\ImageLibrary\obj\Debug\net6.0\ImageLibrary.xml
+C:\Classes\cs341\ImageApp\ImageLibrary\obj\Debug\net6.0\ImageLibrary.pdb
