@@ -1,0 +1,56 @@
+#light
+
+
+
+namespace FSharp
+
+namespace ImageLibrary
+    
+    module Operations =
+        
+        val SepiaRow: row: (int * int * int) list -> (int * int * int) list
+        
+        val Sepia:
+          width: int ->
+            height: int ->
+            depth: int ->
+            image: (int * int * int) list list -> (int * int * int) list list
+        
+        val IntensityRow:
+          row: (int * int * int) list ->
+            factor: double -> color: char -> (int * int * int) list
+        
+        val IncreaseIntensity:
+          width: int ->
+            height: int ->
+            depth: int ->
+            image: (int * int * int) list list ->
+            intensity: double -> channel: char -> (int * int * int) list list
+        
+        val FlipHorizontal:
+          width: int ->
+            height: int ->
+            depth: int ->
+            image: (int * int * int) list list -> (int * int * int) list list
+        
+        val Rotate180:
+          width: int ->
+            height: int ->
+            depth: int ->
+            image: (int * int * int) list list -> (int * int * int) list list
+        
+        val dist:
+          r1: int * g1: int * b1: int -> r2: int * g2: int * b2: int -> float
+        
+        val EdgeRow:
+          row: (int * int * int) list ->
+            next: (int * int * int) list ->
+            limit: float -> (int * int * int) list
+        
+        val EdgeDetect:
+          width: int ->
+            height: int ->
+            depth: int ->
+            image: (int * int * int) list list ->
+            threshold: int -> (int * int * int) list list
+
